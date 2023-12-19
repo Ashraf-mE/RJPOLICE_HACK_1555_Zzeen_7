@@ -18,8 +18,7 @@ As part of the RACCAM hackathon, we build a mobile application, a crucial compon
 - **Figma:** Designing visually stunning and user-friendly interfaces.
 
 ## Samples:
-
-
+![img_1]([files://C:/Users/jzhang/Desktop/Isolated.png](https://github.com/Ashraf-mE/RJPOLICE_HACK_1555_Zzeen_7/blob/main/ReadME_Images/img_1.jpg))
 
 
 
