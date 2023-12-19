@@ -1,19 +1,21 @@
-# RACCAM Hackathon
+# RACCAM Hackathon: Team Zzeen 
 
-- As a part of the RACCAM hackathon our team (Zzeen) built a beautiful mobile application that is related to the topic "Data Analysis software for financial frauds".
+## Overview
+As part of the RACCAM hackathon, we build a mobile application, a crucial component in the development of the "Data Analysis Software for Financial Frauds" project.
 
- ## Features:
- - Transaction details
- - Receiver information
- - Trend of the transactions done by the user (Weekly, Montly, Yearly)
- - Login Authenuation
- - Bank cards addition facility
- - And many more relavant features that further used as a part in the financial fraud detection.  
+## Features
 
-## Technology Used:
-- Flutter
-- Dart, C++, HTML, Swift, CMake
-- Figma
+- **Transaction Details:** Gain comprehensive insights into financial activities.
+- **Receiver Information:** Enhance transparency with details on transaction recipients.
+- **Trend Analysis:** Track user transactions weekly, monthly, and yearly.
+- **Secure Authentication:** Robust login authentication prioritizes data integrity and user confidentiality.
+- **Seamless Card Management:** Conveniently add and manage bank cards within the application.
+
+## Technology Stack
+
+- **Flutter:** Delivering a seamless cross-platform experience.
+- **Dart, C++, HTML, Swift, CMake:** A powerful combination of languages for optimal performance.
+- **Figma:** Designing visually stunning and user-friendly interfaces.
 
 ## Samples:
 
