@@ -1,11 +1,27 @@
-# zzeenpay
+# RACCAM Hackathon
 
-A new Flutter project.
+- As a part of the RACCAM hackathon our team (Zzeen) built a beautiful mobile application that is related to the topic "Data Analysis software for financial frauds".
 
-## Getting Started
+ ## Features:
+ - Transaction details
+ - Receiver information
+ - Trend of the transactions done by the user (Weekly, Montly, Yearly)
+ - Login Authenuation
+ - Bank cards addition facility
+ - And many more relavant features that further used as a part in the financial fraud detection.  
 
-This project is a starting point for a Flutter application.
+## Technology Used:
+- Flutter
+- Dart, C++, HTML, Swift, CMake
+- Figma
 
+## Samples:
+
+
+
+
+
+## Resources:
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
